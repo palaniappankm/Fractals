@@ -1,2 +1,2 @@
 # Fractals
-dynamically producing fractal patterns. A Modular design.
+dynamically producing fractal patterns. 
